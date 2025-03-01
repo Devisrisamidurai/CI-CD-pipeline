@@ -24,6 +24,7 @@ Before getting started with this project, ensure you have the following dependen
 
 ![Architecture Diagram](images/image.png)
 
+
 ##  Overview of CI/CD Workflow
 
 ### 🔗 GitLab CI - Continuous Integration
@@ -92,6 +93,7 @@ syncPolicy:
     automated:
       selfHeal: true
 ```
+![Argo-CD workflow](images/Argo.png)
 Monitor the deployment status and access the application once it's successfully deployed.
 
 📍 **To learn more about Argo CD and configure it in your cluster, refer to the official documentation.**
