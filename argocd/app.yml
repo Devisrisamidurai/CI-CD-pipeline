@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://gitlab.com/devisri1/CI-CD-Pipeline.git
+    repoURL: https://gitlab.com
     targetRevision: HEAD
     path: deployment
   destination:
