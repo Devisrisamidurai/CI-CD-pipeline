@@ -1,9 +1,9 @@
 # 🚀 CI/CD Pipeline for Go-REST-API
 
-## 📝 Introduction
+##  Introduction
 This project is an implementation of Continuous Integration and Continuous Deployment (CI/CD) on a simple Go-REST-API application. It provides a comprehensive example of building, testing, and deploying a Go application using GitLab CI and Argo CD.
 
-## ✨ Features
+##  Features
 - RESTful API built with Go and Gin
 - Demonstrates all CRUD operations
 - Includes a simple test suite for unit testing
@@ -22,8 +22,9 @@ Before getting started with this project, ensure you have the following dependen
 - Ngrok (if you wish to run SonarQube in Docker)
 - Argo CD installed
 
+![Architecture Diagram](images/image.png)
 
-## 🔄 Overview of CI/CD Workflow
+##  Overview of CI/CD Workflow
 
 ### 🔗 GitLab CI - Continuous Integration
 Refer to `.gitlab-ci.yml` for the full configuration.
